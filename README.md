@@ -17,8 +17,8 @@ olá, tudo bem? Sou O Dan. Curso Jogos Digitais na Faculdade Unopar e estou no s
 ### GuesstheNumber.JS
 - About this project: <br>
 A simple game in JS using _POO principles_ and responsive layout techniques.<br>
-![Try GuessTheNumber.JS](https://carldevx.github.io/guess-the-number-minigame/)<br>
-![Repository link](https://github.com/CarlDevx/guess-the-number-minigame)
+[Try GuessTheNumber.JS](https://carldevx.github.io/guess-the-number-minigame/)<br>
+[Repository link](https://github.com/CarlDevx/guess-the-number-minigame)
 
 ### Social _Accounts_
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-costa-de-sousa-a96075261/)
