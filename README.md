@@ -7,13 +7,19 @@ hello everything is fine? I'm Dan. Digital Games Course at Faculdade Unopar and 
 olá, tudo bem? Sou O Dan. Curso Jogos Digitais na Faculdade Unopar e estou no segundo período, sempre fui apaixonado por programção, e hoje tenho a sorte de estudar minha paixão, dê uma olhada nos meus repositórios, creio que achará algo que seja de seu interesse ;).
 
 
-### Linguagens/Languages
+## Linguagens/Languages
 | | | |
 |--|--|--|
-![Static Badge](https://img.shields.io/badge/HTML_-i%20know%2C%20not%20is%20a%20language.%20Lol-red)| ![Static Badge](https://img.shields.io/badge/Css_-basic%2Fintermediate-blue) | ![Static Badge](https://img.shields.io/badge/JS_-basic-orange)
-|![Static Badge](https://img.shields.io/badge/C%23_-intermediate-purple) |![Static Badge](https://img.shields.io/badge/Python_-intermediate-green)|![Static Badge](https://img.shields.io/badge/C%2B%2B_-basics-royalblue)
-|
+![Static Badge](https://img.shields.io/badge/JS_-basic-orange) |![Static Badge](https://img.shields.io/badge/C%23_-intermediate-purple) |![Static Badge](https://img.shields.io/badge/Python_-basic-green)|
+![Static Badge](https://img.shields.io/badge/C%2B%2B_-basics-royalblue) |![Static Badge](https://img.shields.io/badge/Koltin%2FAndroid-basic-blue)
 
-#### Social _Accounts_
+### _Projects | Projetos_
+### GuesstheNumber.JS
+- About this project: <br>
+A simple game in JS using _POO principles_ and responsive layout techniques.<br>
+![Try GuessTheNumber.JS](https://carldevx.github.io/guess-the-number-minigame/)<br>
+![Repository link](https://github.com/CarlDevx/guess-the-number-minigame)
+
+### Social _Accounts_
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-costa-de-sousa-a96075261/)
 >
