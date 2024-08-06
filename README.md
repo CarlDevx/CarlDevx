@@ -11,7 +11,7 @@ olá, tudo bem? Sou O Dan. Curso Jogos Digitais na Faculdade Unopar e estou no s
 | | | |
 |--|--|--|
 ![Static Badge](https://img.shields.io/badge/JS_-basic-orange) |![Static Badge](https://img.shields.io/badge/C%23_-intermediate-purple) |![Static Badge](https://img.shields.io/badge/Python_-basic-green)|
-![Static Badge](https://img.shields.io/badge/C%2B%2B_-basics-royalblue) |![Static Badge](https://img.shields.io/badge/Koltin%2FAndroid-basic-blue)
+![Static Badge](https://img.shields.io/badge/C%2B%2B_-basics-royalblue) |![Static Badge](https://img.shields.io/badge/Koltin%2FAndroid-basic-blue) |
 
 ### _Projects | Projetos_
 ### GuesstheNumber.JS
