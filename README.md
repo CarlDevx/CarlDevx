@@ -10,7 +10,7 @@ olá, tudo bem? Sou O Dan. Curso Jogos Digitais na Faculdade Unopar e estou no s
 ## Linguagens/Languages
 | | | |
 |--|--|--|
-![Static Badge](https://img.shields.io/badge/JS_-basic-orange) |![Static Badge](https://img.shields.io/badge/C%23_-intermediate-purple) |![Static Badge](https://img.shields.io/badge/Python_-basic-green)|
+![Static Badge](https://img.shields.io/badge/JS_-basic-orange) |![Static Badge](https://img.shields.io/badge/C%23_-intermediate-purple) |![Static Badge](https://img.shields.io/badge/Python_-Intermediary-green)|
 ![Static Badge](https://img.shields.io/badge/C%2B%2B_-basics-royalblue) |![Static Badge](https://img.shields.io/badge/Koltin%2FAndroid-basic-blue) |
 
 ### _Projects | Projetos_
@@ -21,5 +21,5 @@ A simple game in JS using _POO principles_ and responsive layout techniques.<br>
 [Repository link](https://github.com/CarlDevx/guess-the-number-minigame)
 
 ### Social _Accounts_
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-costa-de-sousa-a96075261/)
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imsousa/)
 >
